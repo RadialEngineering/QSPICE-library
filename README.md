@@ -52,5 +52,6 @@ In the selection guide method, the symbol file (.qsym) does not contain the `.mo
 - [SPICE Model Links](https://ltwiki.org/index.php?title=SPICE_Model_Links)  
 - [QSPICE Forum Discussion](https://forum.qorvo.com/t/adding-model-files-to-qspice/14963/13)  
 - [Standard.bjt Reference](https://ltwiki.org/index.php?title=Standard.bjt)
+- [SPICE libraries](https://youspice.com/spice-libraries/)
 
 You can also find additional models across various GitHub repositories.
